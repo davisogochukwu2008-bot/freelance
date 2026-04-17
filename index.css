@@ -41,6 +41,7 @@ body {
 }
 
 .btn-main {
+    text-align: center;
     display: inline-block;
     background: #25d366;
     color: white;
